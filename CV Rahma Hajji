@@ -1,1 +1,61 @@
 
+HAJJI RAHMA
+Développeuse Full Stack
+
+Profil
+Développeuse Full Stack passionnée par le développement web et les nouvelles technologies. Spécialisée en développement front-end et back-end, ainsi qu'en architecture logicielle. Expérimentée dans la mise en place de solutions performantes et sécurisées, avec une expertise en React, Django, Angular et Selenium.
+________________________________________
+Expérience Professionnelle
+Full Stack Developer | Campusna (Depuis janvier 2024)
+Automatisation des tests e-learning avec Selenium :
+•	Développement de scripts Python avec Selenium WebDriver pour tester la plateforme Tekouin.
+•	Compatibilité multi-navigateurs (Chrome, Firefox) avec ChromeDriver et Geckodriver.
+•	Intégration des tests en mode headless pour CI/CD.
+•	Tests automatisés sur : 
+o	Authentification (sessions, cookies).
+o	Lecture vidéos (chargement, progression, sous-titres).
+o	Éléments interactifs (quiz, exercices, navigation).
+o	Performance (temps de chargement, logs, captures d’écran en cas d’échec).
+•	Intégration avec pytest, Docker, GitHub Actions / Jenkins, rapports Allure.
+Développement et maintenance de l'intranet Campusna :
+•	Stack technique : React (Frontend), Django (Backend), API REST.
+•	Authentification et gestion des accès (JWT, OAuth, rôles et permissions).
+•	Automatisation des processus RH et tableaux de bord analytiques (React Chart.js, Django ORM).
+•	Optimisation des performances (Redis, Django Middleware, CSRF Protection).
+Projet E-learning (Septembre - Décembre 2022)
+•	Application de formations avec authentification JWT et gestion des routings en lazy loading.
+•	Gestion des states avec RxJS, observables et formulaires Angular (FormGroup).
+•	Back-end Node.js avec API REST (CRUD) et intégration front-back.
+•	Technologies : Angular v14, TypeScript, Node.js, Git, VS Code.
+
+Autres Expériences
+•	IT Support | Elamel Microfinance Kairouan (Avril 2021 - Mai 2022)
+•	Formatrice en programmation | Master School Kairouan (Octobre 2019 - Mars 2021)
+•	Formatrice en programmation | IPSET Tunis (Octobre 2018 - Août 2019)
+•	Projet fin d’études : Création d’un site web avec HTML, CSS et PHP | Karoui Soft (Février - Mai 2015)
+________________________________________
+Formation
+•	Certification Docker Certified Associate (DCA) | RBK (Janvier 2025)
+•	Certification Full Stack | Esprit (Mai - Décembre 2022)
+•	Master Recherche en Enterprise System Engineering | ISIM Sfax (2015 - 2018)
+•	Programme d'échange Erasmus | Lublin University of Technology, Pologne (Février - Juillet 2017)
+•	Licence en Informatique | ISIG Kairouan (2012 - 2015)
+•	Baccalauréat Mathématiques | Lycée de Kairouan (2011 - 2012)
+________________________________________
+Compétences Techniques
+•	Langages : Java, C, Python, PHP, JavaScript
+•	Front-end : HTML, CSS, Bootstrap, Angular (TypeScript)
+•	Back-end : Spring Boot, Express.js, Django, Node.js
+•	Base de données : MySQL, Oracle, MongoDB
+•	Méthodologies : Scrum, UML
+•	Environnements : NetBeans, VS Code, Node.js, STS
+________________________________________
+Langues
+•	Français : Courant
+•	Anglais : Courant
+•	Allemand : Débutant
+________________________________________
+Centres d'intérêt
+•	Camping
+•	Randonnée
+•	Voyage
